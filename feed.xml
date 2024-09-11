@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <atom:link href="http://blogroll.fr/feed.xml" rel="self" type="application/rss+xml" />
+        <title>blogroll.fr</title>
+        <description>Blogroll francophone</description>
+        <link>https://blogroll.fr/</link>
+        <language>fr-fr</language>
+ 
+
+        <item>
+            <title>Ça y est, le blogroll est statique !</title> <!--UPDATE NAME-->
+
+            <link>https://blogroll.fr/</link>
+            
+            <guid isPermaLink="true">https://blogroll.fr/</guid>
+
+            <description>
+                Et si tout va bien, ce flux RSS fonctionne.
+            </description>
+
+            <pubDate>Sat, 7 Sep 2024 00:00:00 GMT</pubDate> <!--UPDATE DATE-->
+        </item>
+    </channel>
+</rss>
+
+<!--
+        <item>
+            <title>Ajouté au blogroll : %BLOGNAME%</title> <!-\-UPDATE NAME-\->
+
+            <link>https://blogroll.fr/</link>
+            
+            <guid isPermaLink="true">https://blogroll.fr/</guid>
+
+            <description>
+                <h1>Nouveau blog sur le blogroll francophone : %BLOGNAME%</h1>
+                <p>%BLOGDESC%</p>
+                <p>
+                    <a href="%BLOGLINK%">Visiter le blog</a>
+                </p>
+            </description>
+
+            <pubDate>Wed, 25 Oct 2023 00:00:00 GMT</pubDate> <!-\-UPDATE DATE-\->
+
+            <author>blogroll@alexsirac.com (Alex Sirac)</author>
+        </item>
+        -->

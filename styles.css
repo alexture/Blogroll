@@ -39,6 +39,10 @@ a{
     color: darkcyan;
 }
 
+a.feed{
+    text-transform: none;
+}
+
 a:visited{
     color:darkgreen;
 }

@@ -40,7 +40,7 @@ a{
 }
 
 a.feed{
-    text-transform: none;
+    text-decoration: none;
 }
 
 a:visited{

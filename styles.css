@@ -20,29 +20,14 @@ footer{
 
 /* Général */
 
-body{
-    background-color: whitesmoke;
-    color:black;
-}
-
 h1{
-    font-family: Arial, Helvetica, sans-serif;
-    color: green;
-    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;    text-align: center;
 }
 
 h2{
     text-align: center;
 }
 
-a{
-    color: darkcyan;
-}
-
 a.feed{
     text-decoration: none;
-}
-
-a:visited{
-    color:darkgreen;
 }

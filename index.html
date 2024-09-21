@@ -3,8 +3,28 @@
 <html lang="fr">
     <head>
         <title>Blogroll francophone</title>
+
+        <!--Color schemes-->
+        <script>
+            // If `prefers-color-scheme` is not supported, fall back to light mode.
+            // In this case, light.css will be downloaded with `highest` priority.
+            if (window.matchMedia('(prefers-color-scheme: dark)').media === 'not all') {
+              document.documentElement.style.display = 'none';
+              document.head.insertAdjacentHTML(
+                'beforeend',
+                '<link rel="stylesheet" href="/light.css" onload="document.documentElement.style.display = \'\'">',
+              );
+            }
+        </script>
+        <link rel="stylesheet" href="light.css"
+            media="(prefers-color-scheme:light)">
+        <link rel="stylesheet" href="dark.css"
+            media="(prefers-color-scheme:dark)">
+        
+        <!--Normal CSS and feed-->
         <link rel="stylesheet" href="styles.css">
         <link rel=”alternate” type=”application/rss+xml” href=”/feed.xml” title=”Blogroll”>
+
         <meta name="viewport"
             content="initial-scale=1, width=device-width"
             charset="utf-8">

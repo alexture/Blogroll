@@ -9,6 +9,19 @@
  
 
         <item>
+            <title>Ajout d'un mode sombre</title> <!--UPDATE NAME-->
+
+            <link>https://blogroll.fr/</link>
+            
+            <guid isPermaLink="true">https://blogroll.fr/</guid>
+
+            <description>
+                Maintenant, le blogroll prend en compte les préférences de votre navigateur. En cas de problème (navigateur non compatible, JavaScript désactivé, etc.), il utilise le mode clair par défaut.
+            </description>
+
+            <pubDate>Sat, 21 Sep 2024 13:00:00 GMT</pubDate> <!--UPDATE DATE-->
+        </item>
+        <item>
             <title>Ça y est, le blogroll est statique !</title> <!--UPDATE NAME-->
 
             <link>https://blogroll.fr/</link>

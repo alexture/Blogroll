@@ -14,4 +14,4 @@ jobs:
         server: ftp.cluster029.hosting.ovh.net
         username: blogrog
         password: ${{ secrets.FTP_PASSWORD }}
-        target: "/www/"
+        server-dir: "/www/"

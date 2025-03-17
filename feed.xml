@@ -7,6 +7,26 @@
         <link>https://blogroll.fr/</link>
         <language>fr-fr</language>
  
+        <item>
+            <title>Ajouté au blogroll : BLOG.O.LIVE</title>
+
+            <link>https://blogroll.fr/</link>
+            
+            <guid isPermaLink="true">https://blogroll.fr/</guid>
+
+            <description>
+                <h1>Nouveau blog sur le blogroll francophone : BLOG.O.LIVE</h1>
+                <p>Quelques billets: Voyages d'abord et partage d'opinions, de photos, bouquins, et les oliviers !
+</p>
+                <p>
+                    <a href="https://philfff.blogspot.com">Visiter le blog</a>
+                </p>
+            </description>
+
+            <pubDate>Wed, 25 Oct 2023 00:00:00 GMT</pubDate> <!-\-UPDATE DATE-\->
+
+            <author>blogroll@alexsirac.com (Alex Sirac)</author>
+        </item>
 
         <item>
             <title>Ajout d'un mode sombre</title> <!--UPDATE NAME-->
@@ -57,4 +77,4 @@
 
             <author>blogroll@alexsirac.com (Alex Sirac)</author>
         </item>
-        -->
+-->

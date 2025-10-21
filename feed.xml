@@ -7,12 +7,24 @@
         <link>https://blogroll.fr/</link>
         <language>fr-fr</language>
 
-        
-        <a href="https://teznet.fr/blog/">Tezblog</a>. Des scripts InDesign et toutes sortes de pensées, vélo inclus.
-        
-
         <item>
-            <title>Ajouté au blogroll : Pétales d'histoire</title>
+            <title>Ajouté au blogroll : Justman</title>
+
+            <link>https://justman.fr/</link>
+            
+            <guid isPermaLink="true">https://blogroll.fr/</guid>
+
+            <description>
+                <h1>Nouveau blog sur le blogroll francophone : Justman</h1>
+                <p>Un blog personnel quelque part entre la matrice et le monde réel.</p>
+                
+            </description>
+
+            <pubDate>Tue, 22 Oct 2025 13:00:00 GMT</pubDate> 
+        </item>
+        
+        <item>
+            <title>Ajouté au blogroll : Teznet</title>
 
             <link>https://teznet.fr/blog/</link>
             

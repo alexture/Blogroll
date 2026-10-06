@@ -1,149 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <atom:link href="http://blogroll.fr/feed.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://blogroll.fr/feed.xml" rel="self" type="application/rss+xml" />
         <title>blogroll.fr</title>
         <description>Blogroll francophone</description>
         <link>https://blogroll.fr/</link>
         <language>fr-fr</language>
+        <lastBuildDate>Tue, 06 Oct 2026 19:02:50 GMT</lastBuildDate>
 
+        <item>
+            <title>Ajouté au blogroll : Lapinsights</title>
+            <link>https://lapinsights.org/</link>
+            <guid isPermaLink="true">https://lapinsights.org/</guid>
+            <description><![CDATA[<h1>Nouveau blog sur le blogroll francophone : Lapinsights</h1><p>Fiction et réflexions personnelles se mélangent dans un univers onirique.</p>]]></description>
+            <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title>Ajouté au blogroll : Justman</title>
-
             <link>https://justman.fr/</link>
-            
             <guid isPermaLink="true">https://blogroll.fr/</guid>
-
-            <description>
-                <h1>Nouveau blog sur le blogroll francophone : Justman</h1>
-                <p>Un blog personnel quelque part entre la matrice et le monde réel.</p>
-                
-            </description>
-
-            <pubDate>Tue, 22 Oct 2025 13:00:00 GMT</pubDate> 
+            <description><![CDATA[<h1>Nouveau blog sur le blogroll francophone : Justman</h1><p>Un blog personnel quelque part entre la matrice et le monde réel.</p>]]></description>
+            <pubDate>Wed, 22 Oct 2025 12:00:00 GMT</pubDate>
         </item>
-        
-        <item>
-            <title>Ajouté au blogroll : Teznet</title>
-
-            <link>https://teznet.fr/blog/</link>
-            
-            <guid isPermaLink="true">https://blogroll.fr/</guid>
-
-            <description>
-                <h1>Nouveau blog sur le blogroll francophone : Tezblog</h1>
-                <p>Des scripts InDesign et toutes sortes de pensées, vélo inclus.</p>
-                
-            </description>
-
-            <pubDate>Tue, 22 Oct 2025 13:00:00 GMT</pubDate> 
-        </item>
-
         <item>
             <title>Ajouté au blogroll : Pétales d'histoire</title>
-
             <link>https://www.petalesdhistoire.com</link>
-            
             <guid isPermaLink="true">https://blogroll.fr/</guid>
-
-            <description>
-                <h1>Nouveau blog sur le blogroll francophone : Pétales d'histoire</h1>
-                <p>Un blog de fleurs alliant histoire et culture avec une note de poésie.</p>
-                
-            </description>
-
-            <pubDate>Tue, 22 Oct 2025 13:00:00 GMT</pubDate> 
+            <description><![CDATA[<h1>Nouveau blog sur le blogroll francophone : Pétales d'histoire</h1><p>Un blog de fleurs alliant histoire et culture avec une note de poésie.</p>]]></description>
+            <pubDate>Wed, 22 Oct 2025 12:00:00 GMT</pubDate>
         </item>
-
+        <item>
+            <title>Ajouté au blogroll : Tezblog</title>
+            <link>https://teznet.fr/blog/</link>
+            <guid isPermaLink="true">https://blogroll.fr/</guid>
+            <description><![CDATA[<h1>Nouveau blog sur le blogroll francophone : Tezblog</h1><p>Des scripts InDesign et toutes sortes de pensées, vélo inclus.</p>]]></description>
+            <pubDate>Wed, 22 Oct 2025 12:00:00 GMT</pubDate>
+        </item>
         <item>
             <title>Ajouté au blogroll : 6x8 = 42, les trucs du Moko</title>
-
-            <link>https://6x8.org</link>
-            
+            <link>https://www.6x8.org/</link>
             <guid isPermaLink="true">https://blogroll.fr/</guid>
-
-            <description>
-                <h1>Nouveau blog sur le blogroll francophone : 6x8 = 42, les trucs du Moko</h1>
-                <p>Le blog d'un travailleur et dinosaure du web, expert et défenseur a11y, soucieux de privacy et de Qualité web, angoissé du climat, adepte du vélotaf, fan de lomographie, partageur de lectures, daron x3… (Note d'Alex : je l'ai mis dans la catégorie « Culture » sur la base des publications récentes !)</p>
-                
-            </description>
-
-            <pubDate>Fri, 31 May 2025 9:00:00 GMT</pubDate> 
+            <description><![CDATA[<h1>Nouveau blog sur le blogroll francophone : 6x8 = 42, les trucs du Moko</h1><p>Travailleur et dinosaure du web (a11y, privacy, qualité web), angoissé du climat, adepte du vélotaf, fan de lomographie, partageur de lectures, daron x3…</p>]]></description>
+            <pubDate>Sat, 31 May 2025 12:00:00 GMT</pubDate>
         </item>
-
         <item>
             <title>Ajouté au blogroll : Dryusdan</title>
-
             <link>https://dryusdan.space</link>
-            
             <guid isPermaLink="true">https://blogroll.fr/</guid>
-
-            <description>
-                <h1>Nouveau blog sur le blogroll francophone : Dryusdan</h1>
-                <p>L'espace d'un passionné d'informatique, de cyclisme et de cuisine.</p>
-                
-            </description>
-
-            <pubDate>Sun, 13 Apr 2025 13:00:00 GMT</pubDate> 
+            <description><![CDATA[<h1>Nouveau blog sur le blogroll francophone : Dryusdan</h1><p>L'espace d'un passionné d'informatique, de cyclisme et de cuisine.</p>]]></description>
+            <pubDate>Sun, 13 Apr 2025 12:00:00 GMT</pubDate>
         </item>
-
         <item>
             <title>Ajouté au blogroll : ynote_hk</title>
-
             <link>https://ynote.hk/mots/</link>
-            
             <guid isPermaLink="true">https://blogroll.fr/</guid>
-
-            <description>
-                <h1>Nouveau blog sur le blogroll francophone : ynote_hk</h1>
-                <p>Documente son processus de création (aquarelle, dessin, couleurs) et raconte des histoires personnelles liées au corps, aux liens (relation aux autres, relation aux lieux) et à l'argent. </p>
-                
-            </description>
-
-            <pubDate>Sun, 13 Apr 2025 13:00:00 GMT</pubDate> 
+            <description><![CDATA[<h1>Nouveau blog sur le blogroll francophone : ynote_hk</h1><p>Création (aquarelle, dessin, couleurs) et histoires personnelles liées au corps, aux liens (relation aux autres, relation aux lieux) et à l'argent.</p>]]></description>
+            <pubDate>Sun, 13 Apr 2025 12:00:00 GMT</pubDate>
         </item>
- 
         <item>
             <title>Ajouté au blogroll : BLOG.O.LIVE</title>
-
             <link>https://philfff.blogspot.com/</link>
-            
             <guid isPermaLink="true">https://blogroll.fr/</guid>
-
-            <description>
-                <h1>Nouveau blog sur le blogroll francophone : BLOG.O.LIVE</h1>
-                <p>Quelques billets: Voyages d'abord et partage d'opinions, de photos, bouquins, et les oliviers !</p>
-                
-            </description>
-
-            <pubDate>Fri, 28 Mar 2025 13:00:00 GMT</pubDate> 
-        </item>
-
-        <item>
-            <title>Ajout d'un mode sombre</title> <!--UPDATE NAME-->
-
-            <link>https://blogroll.fr/</link>
-            
-            <guid isPermaLink="true">https://blogroll.fr/</guid>
-
-            <description>
-                Maintenant, le blogroll prend en compte les préférences de votre navigateur. En cas de problème (navigateur non compatible, JavaScript désactivé, etc.), il utilise le mode clair par défaut.
-            </description>
-
-            <pubDate>Sat, 21 Sep 2024 13:00:00 GMT</pubDate> <!--UPDATE DATE-->
-        </item>
-        <item>
-            <title>Ça y est, le blogroll est statique !</title> <!--UPDATE NAME-->
-
-            <link>https://blogroll.fr/</link>
-            
-            <guid isPermaLink="true">https://blogroll.fr/</guid>
-
-            <description>
-                Et si tout va bien, ce flux RSS fonctionne.
-            </description>
-
-            <pubDate>Sat, 7 Sep 2024 00:00:00 GMT</pubDate> <!--UPDATE DATE-->
+            <description><![CDATA[<h1>Nouveau blog sur le blogroll francophone : BLOG.O.LIVE</h1><p>Quelques billets: Voyages d'abord et partage d'opinions, de photos, bouquins, et les oliviers !</p>]]></description>
+            <pubDate>Fri, 28 Mar 2025 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
